@@ -1,4 +1,4 @@
-﻿#Hello! This is Telegram Command Bot v1.02
+﻿#Hello! This is Telegram Command Bot v1.03
 
 param( 	
 	[Parameter(Mandatory=$True)]
